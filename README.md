@@ -1,1 +1,2 @@
-# bnbart-serverless-azure
+# bnbart-serverless-azure  
+Authored by Rahul Singh and Siena Joo
